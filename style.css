@@ -1,0 +1,33 @@
+body {
+     background-color:pink;
+     font-family: "Dancing Script", cursive;
+}
+.header_div{
+    background-color: lightcoral;
+    color:blanchedalmond;
+
+}
+.header_div p{
+    font-family: cursive;
+    color: indianred;
+    font-size: 13px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: cursive;
+    margin-top: 35px;
+    width: 145px;
+    font-weight: bold;
+    letter-spacing: 3px;
+}
+.footer{
+    position: fixed;
+    bottom: 0;
+    background-color: lightpink;
+    width: 100%;
+    text-align: center;
+    line-height: 3;
+    font-size: 20px;
+    color: palevioletred;
+    text-shadow: 7px 6px 5px grey;
+}
